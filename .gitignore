@@ -1,0 +1,5 @@
+# Ignore the entire synthea directory
+synthea/
+
+# If you want to keep the output data but not synthea itself
+# !synthea/output/

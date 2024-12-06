@@ -1,0 +1,8 @@
+- various blood pressure readings (systolic and diastolic) over time
+- various cholesterol levels (HDL, LDL, and total) over time
+- various blood sugar levels over time
+- Age at death, sex, and race
+- History of diabetes
+- Smoking status and frequency over time
+- Whether the patient is on hypertension treatment
+- cause of death

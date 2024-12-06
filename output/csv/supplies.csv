@@ -1,0 +1,61 @@
+DATE,PATIENT,ENCOUNTER,CODE,DESCRIPTION,QUANTITY
+2020-06-27,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,409534002,Disposable air-purifying respirator (physical object),2
+2020-06-27,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-06-27,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,469673003,Isolation gown  single-use (physical object),12
+2020-06-27,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,706724001,Face shield (physical object),2
+2020-06-27,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,419343004,Alcohol disinfectant (substance),1
+2020-06-27,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,470618009,Antiseptic towelette (physical object),8
+2020-06-28,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,409534002,Disposable air-purifying respirator (physical object),2
+2020-06-28,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-06-28,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,469673003,Isolation gown  single-use (physical object),12
+2020-06-28,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,706724001,Face shield (physical object),2
+2020-06-28,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,419343004,Alcohol disinfectant (substance),1
+2020-06-28,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,470618009,Antiseptic towelette (physical object),8
+2020-06-29,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,409534002,Disposable air-purifying respirator (physical object),2
+2020-06-29,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-06-29,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,469673003,Isolation gown  single-use (physical object),12
+2020-06-29,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,706724001,Face shield (physical object),2
+2020-06-29,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,419343004,Alcohol disinfectant (substance),1
+2020-06-29,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,470618009,Antiseptic towelette (physical object),8
+2020-06-30,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,409534002,Disposable air-purifying respirator (physical object),2
+2020-06-30,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-06-30,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,469673003,Isolation gown  single-use (physical object),12
+2020-06-30,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,706724001,Face shield (physical object),2
+2020-06-30,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,419343004,Alcohol disinfectant (substance),1
+2020-06-30,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,470618009,Antiseptic towelette (physical object),8
+2020-07-01,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-01,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-01,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,469673003,Isolation gown  single-use (physical object),12
+2020-07-01,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,706724001,Face shield (physical object),2
+2020-07-01,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,419343004,Alcohol disinfectant (substance),1
+2020-07-01,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,470618009,Antiseptic towelette (physical object),8
+2020-07-02,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-02,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-02,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,469673003,Isolation gown  single-use (physical object),12
+2020-07-02,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,706724001,Face shield (physical object),2
+2020-07-02,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,419343004,Alcohol disinfectant (substance),1
+2020-07-02,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,470618009,Antiseptic towelette (physical object),8
+2020-07-03,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-03,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-03,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,469673003,Isolation gown  single-use (physical object),12
+2020-07-03,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,706724001,Face shield (physical object),2
+2020-07-03,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,419343004,Alcohol disinfectant (substance),1
+2020-07-03,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,470618009,Antiseptic towelette (physical object),8
+2020-07-04,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-04,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-04,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,469673003,Isolation gown  single-use (physical object),12
+2020-07-04,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,706724001,Face shield (physical object),2
+2020-07-04,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,419343004,Alcohol disinfectant (substance),1
+2020-07-04,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,470618009,Antiseptic towelette (physical object),8
+2020-07-05,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-05,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-05,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,469673003,Isolation gown  single-use (physical object),12
+2020-07-05,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,706724001,Face shield (physical object),2
+2020-07-05,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,419343004,Alcohol disinfectant (substance),1
+2020-07-05,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,470618009,Antiseptic towelette (physical object),8
+2020-07-06,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,409534002,Disposable air-purifying respirator (physical object),2
+2020-07-06,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,713779008,Nitrile examination/treatment glove  non-powdered  sterile (physical object),24
+2020-07-06,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,469673003,Isolation gown  single-use (physical object),12
+2020-07-06,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,706724001,Face shield (physical object),2
+2020-07-06,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,419343004,Alcohol disinfectant (substance),1
+2020-07-06,b0b94080-b528-302b-c2b7-d1031d521e9a,99d09dd9-3daf-968c-f02e-7127db5c8c03,470618009,Antiseptic towelette (physical object),8
